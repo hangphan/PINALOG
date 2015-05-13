@@ -3,7 +3,7 @@ PINALOG 1.0 README
 
 ===================
 PINALOG 1.0 has been developed by Hang Phan, PhD student at the Division of Molecular Biosciences, Imperial College London, SW7 2AZ
-For any query concerning PINALOG, please contact hang.phan07@imperial.ac.uk
+For any query concerning PINALOG, please contact hangphan@well.ox.ac.uk
 
 ===================
 
